@@ -1,3 +1,7 @@
+4YOUPRODACTION
+e-mail: 4youprodaction-aaaaerubb74bihlmadtn4gbnli@testit-9vh5496.slack.com
+
+
 # DEPRECATED
 
 This guide is no longer maintained and supported. We recommend reading through the [Sprint Book](https://www.thesprintbook.com/) instead.
